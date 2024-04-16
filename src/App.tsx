@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <a className='link-wb'
-          href={'https://www.wildberries.ru/catalog/0/search.aspx?search=coloco'}
+          href={'https://www.wildberries.ru/brands/310616779-coloco'}
           rel ={'nofollow noreferrer'}
       target={'_blank'}
       >
