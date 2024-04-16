@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/coloco/static/css/main.03a1e89e.css",
-    "main.js": "/coloco/static/js/main.f34bae62.js",
+    "main.js": "/coloco/static/js/main.49e3c158.js",
     "static/js/453.5fcf1f72.chunk.js": "/coloco/static/js/453.5fcf1f72.chunk.js",
     "index.html": "/coloco/index.html",
     "main.03a1e89e.css.map": "/coloco/static/css/main.03a1e89e.css.map",
-    "main.f34bae62.js.map": "/coloco/static/js/main.f34bae62.js.map",
+    "main.49e3c158.js.map": "/coloco/static/js/main.49e3c158.js.map",
     "453.5fcf1f72.chunk.js.map": "/coloco/static/js/453.5fcf1f72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03a1e89e.css",
-    "static/js/main.f34bae62.js"
+    "static/js/main.49e3c158.js"
   ]
 }
