@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/coloco/static/css/main.83a44b4a.css",
-    "main.js": "/coloco/static/js/main.58d219e7.js",
+    "main.css": "/coloco/static/css/main.eca87e52.css",
+    "main.js": "/coloco/static/js/main.fa775d61.js",
     "static/js/453.5fcf1f72.chunk.js": "/coloco/static/js/453.5fcf1f72.chunk.js",
-    "static/media/backgroundLove.jpg": "/coloco/static/media/backgroundLove.b73d799174eb39461a24.jpg",
+    "static/media/backgroundLove.jpg": "/coloco/static/media/backgroundLove.64d5da2b0ac443e6ac1f.jpg",
     "index.html": "/coloco/index.html",
-    "main.83a44b4a.css.map": "/coloco/static/css/main.83a44b4a.css.map",
-    "main.58d219e7.js.map": "/coloco/static/js/main.58d219e7.js.map",
+    "main.eca87e52.css.map": "/coloco/static/css/main.eca87e52.css.map",
+    "main.fa775d61.js.map": "/coloco/static/js/main.fa775d61.js.map",
     "453.5fcf1f72.chunk.js.map": "/coloco/static/js/453.5fcf1f72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83a44b4a.css",
-    "static/js/main.58d219e7.js"
+    "static/css/main.eca87e52.css",
+    "static/js/main.fa775d61.js"
   ]
 }
