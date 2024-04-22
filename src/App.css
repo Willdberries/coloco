@@ -1,10 +1,16 @@
 .App {
   text-align: center;
   display: flex;
-  justify-content: center;
-  align-items: center;
   height: 100vh;
   flex-direction: column;
+  background: url("../image/backgroundLove.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+  width: 100vw;
+
+
 }
 
 a {
@@ -18,12 +24,38 @@ a {
   font-family: "Roboto";
   text-decoration: none;
 }
+.header {
+  height: 40px;
+  display: flex;
+  justify-content: end;
+  padding: 0 20px;
+}
 
+.zeroblock {
+  height: 1px;
+  width: 100vw;
+  background: linear-gradient(0deg, rgba(36, 36, 36, .05) 0, rgba(36, 36, 36, .05) 100%), linear-gradient(97deg, #ed3cca .49%, #df34d2 14.88%, #d02bd9 29.27%, #bf22e1 43.14%, #ae1ae8 57.02%, #9a10f0 70.89%, #8306f7 84.76%, #7c1af8 99.15%);;
+}
+
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+.logo {
+  font-size: 24px;
+  font-weight: 600;
+  padding: 0;
+  margin: 0;
+  color: #f800e5
+}
 .link-wb {
   background: linear-gradient(0deg, rgba(36, 36, 36, .05) 0, rgba(36, 36, 36, .05) 100%), linear-gradient(97deg, #ed3cca .49%, #df34d2 14.88%, #d02bd9 29.27%, #bf22e1 43.14%, #ae1ae8 57.02%, #9a10f0 70.89%, #8306f7 84.76%, #7c1af8 99.15%);
   margin-bottom: 10px;
 }
 
 .link-tg {
-  background: #3390ec
+  background: rgb(110 94 174)
 }
