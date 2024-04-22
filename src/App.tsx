@@ -8,7 +8,6 @@ function App() {
         <header className={'header'}>
             <p className={'logo'}>COLOCO</p>
         </header>
-        <div className={'zeroblock'} />
         <main className={'main'}>
             <a className='link-wb'
                href={'https://www.wildberries.ru/brands/310616779-coloco'}
