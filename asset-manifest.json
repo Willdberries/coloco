@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/coloco/static/css/main.2dcd397a.css",
-    "main.js": "/coloco/static/js/main.fa775d61.js",
+    "main.js": "/coloco/static/js/main.d150563d.js",
     "static/js/453.5fcf1f72.chunk.js": "/coloco/static/js/453.5fcf1f72.chunk.js",
     "static/media/backgroundLove.jpg": "/coloco/static/media/backgroundLove.64d5da2b0ac443e6ac1f.jpg",
     "index.html": "/coloco/index.html",
     "main.2dcd397a.css.map": "/coloco/static/css/main.2dcd397a.css.map",
-    "main.fa775d61.js.map": "/coloco/static/js/main.fa775d61.js.map",
+    "main.d150563d.js.map": "/coloco/static/js/main.d150563d.js.map",
     "453.5fcf1f72.chunk.js.map": "/coloco/static/js/453.5fcf1f72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dcd397a.css",
-    "static/js/main.fa775d61.js"
+    "static/js/main.d150563d.js"
   ]
 }
