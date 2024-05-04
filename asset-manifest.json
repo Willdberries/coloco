@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/coloco/static/css/main.2eeb7720.css",
+    "main.css": "/coloco/static/css/main.e0460fc4.css",
     "main.js": "/coloco/static/js/main.b27dc7b1.js",
     "static/js/453.5fcf1f72.chunk.js": "/coloco/static/js/453.5fcf1f72.chunk.js",
     "static/media/backgroundLove.jpg": "/coloco/static/media/backgroundLove.64d5da2b0ac443e6ac1f.jpg",
     "index.html": "/coloco/index.html",
-    "static/media/star.svg": "/coloco/static/media/star.366078854c931c1e1516.svg",
-    "main.2eeb7720.css.map": "/coloco/static/css/main.2eeb7720.css.map",
+    "static/media/star.svg": "/coloco/static/media/star.5c11175b6af699e633c5.svg",
+    "main.e0460fc4.css.map": "/coloco/static/css/main.e0460fc4.css.map",
     "main.b27dc7b1.js.map": "/coloco/static/js/main.b27dc7b1.js.map",
     "453.5fcf1f72.chunk.js.map": "/coloco/static/js/453.5fcf1f72.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2eeb7720.css",
+    "static/css/main.e0460fc4.css",
     "static/js/main.b27dc7b1.js"
   ]
 }
