@@ -62,7 +62,7 @@ a {
     align-items: center;
     display: flex;
     flex-direction: column;
-    margin: 0 20px;
+    margin: 0 0 20px 20px;
     width: fit-content;
 
 }
@@ -98,4 +98,8 @@ a {
     background-repeat: no-repeat;
     width: 30px;
     height: 30px;
+}
+
+.star svg path{
+    fill: #FCA95D;
 }
