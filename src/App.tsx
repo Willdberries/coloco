@@ -4,7 +4,7 @@ import './App.css';
 
 function App() {
     const clickButton = (event: string) => {
-        (window as any)?.gtag('event', `clickButtonOpen${event}`, {event_name: event})
+            (window as any)?.gtag('event', `clickButtonOpen${event}`, {event_name: event})
     }
 
     useEffect(() => {
