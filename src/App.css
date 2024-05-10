@@ -64,6 +64,7 @@ a {
     flex-direction: column;
     margin: 0 0 20px 20px;
     width: fit-content;
+    position: relative;
 
 }
 
@@ -78,9 +79,11 @@ a {
 .feedback-link {
     font-size: 0;
     text-align: left;
-    width: fit-content;
-    padding: 0;
-    min-width: fit-content;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0
+;
 
 }
 
@@ -91,6 +94,7 @@ a {
     width: fit-content;
     border: 1px solid rgb(110 94 174);
     border-radius: 8px;
+    list-style: none;
 }
 
 .star {
